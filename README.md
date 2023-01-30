@@ -1,11 +1,11 @@
 # backstop-config
 
-This is an opinionated (https://github.com/garris/BackstopJS)[backstopjs] config which allows to test multiple
+This is an opinionated [https://github.com/garris/BackstopJS](backstopjs) config which allows to test multiple
 projects while sharing basic setup. But everything can be overwritten from project configs.
 
 ## Requirements
 
-The (backstop.js)[backstop.js] script uses [https://www.npmjs.com/package/minimist](minimist) to parse commandline
+The [backstop.js](backstop.js) script uses [https://www.npmjs.com/package/minimist](minimist) to parse commandline
 arguments. You may install that package globally or create a package.json in this directory. 
 
 ## Setup
