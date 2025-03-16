@@ -40,7 +40,7 @@ if (args.referenceUrl) {
 } else {
     referenceUrl = siteConfig.referenceUrl;
 }
-if (!args.referenceUrl) {
+if (!referenceUrl) {
     console.error('Error: missing referenceUrl');
 }
 
